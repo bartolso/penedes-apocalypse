@@ -1,0 +1,22 @@
+{
+    "general": {
+        "save_game_successful": "Partida guardada en {filename}",
+        "load_game_successful": "Partida {filename} cargada"
+    },
+    "start": {
+        "welcome": "Bienvenido a Penedès Apocalypse.",
+        "start_options": "1. Cargar mundo (por defecto)\n2. Crear nuevo mundo",
+        "player_name_prompt": "Introduce el nombre de tu personaje",
+        "language_prompt": "Idioma:\n1. Español"
+    },
+    "area": {
+        "desc": {
+            "bonaterra": "Una urbanización más",
+            "la_cometa": "Un polígono industrial",
+            "el_vendrell": "El peor pueblo",
+            "les_pedreres": "Otra urbanización aleatoria",
+            "bellvei": "Un pueblo random",
+            "cantera": "Joder, una cantera"
+        }
+    }
+}
