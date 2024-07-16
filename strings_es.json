@@ -18,5 +18,10 @@
             "bellvei": "Un pueblo random",
             "cantera": "Joder, una cantera"
         }
+    },
+    "dialogues": {
+        "1": {
+            "text": "holaaa"
+        }
     }
 }

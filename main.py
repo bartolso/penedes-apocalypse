@@ -67,8 +67,6 @@ def game_loop():
         
         handle_command(user_input)
 
-        
-
 
 if __name__ == '__main__':
     main()
